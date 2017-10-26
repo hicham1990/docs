@@ -8,6 +8,8 @@ Today
 ### Create a Local Git Repo
 - Create a new repo on your laptop called docs
 - Inside docs start a textfile called lamp_server_setup.md
+- Inside the docs start a file called second lamp_server_setup.md
+- git add second file
 ---
 
 ### Create a New GitHub Repository Called lamp_server_setup
